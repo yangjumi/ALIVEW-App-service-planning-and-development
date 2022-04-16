@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-<img width="80%" src="![Untitled](https://user-images.githubusercontent.com/60904652/163660925-ec783fdf-9721-4aa4-ba18-3c92743c33b7.png)"/>
+<img width="80%" src="https://user-images.githubusercontent.com/60904652/163660925-ec783fdf-9721-4aa4-ba18-3c92743c33b7.png"/>
 
 
 This project is a starting point for a Flutter application.
